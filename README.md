@@ -69,7 +69,7 @@ The analytics interface presents occupational burnout indicators, wellbeing metr
 
 The assessment insights interface displays evaluation summaries, contributing factors, and recommendations.
 
-![Hassin Assessment Insights](haseen-github-showcase/assets/analytics-insights.png)
+![Hassin Assessment Insights](haseen-github-showcase/assets/analytics-insightss.png.png)
 
 ## Technology Stack
 
